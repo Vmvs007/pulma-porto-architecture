@@ -1,5 +1,9 @@
-# Documentação do Projeto
+---
+title: Pulma Porto Architecture
+---
 
-## Architecture Decision Records
+# Pulma Porto Architecture
 
-- [Ver ADRs](./decisions/README.md)
+## Documentation
+
+- [Architecture Decision Records](./decisions/)
